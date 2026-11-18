@@ -1,6 +1,6 @@
 # FleetLogix — Proyecto Integrador Módulo 2
 
-**Henry | Data Science | Luis Fernando Cornejo**
+**Henry | Data Science | Luis Fernando Cornejo Martínez**
 
 Proyecto académico de analítica logística: generación y análisis de datos operativos en PostgreSQL, optimización SQL, construcción de un Data Warehouse dimensional en Snowflake y propuesta de arquitectura AWS.
 
