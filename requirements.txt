@@ -1,0 +1,14 @@
+# Dependencias orientativas; instalar según el avance que se ejecute.
+pandas
+numpy
+psycopg2-binary
+faker
+snowflake-connector-python
+holidays
+schedule
+python-dotenv
+matplotlib
+seaborn
+openpyxl
+boto3
+jupyter
